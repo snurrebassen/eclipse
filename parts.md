@@ -8,7 +8,7 @@
 | Part | Quantity | Screw | Bit Size/Notes |
 | --- | :---: | :---: | :---: |
 | Bottom to top | 8 | M3x11mm  | Socket cap screw, max diameter 5.5mm
-| Daughterboard | 4 | M2x4mm | 
+| Daughterboard | 4 | M2x4mm | Standard stabilizer/plate screws
 | Weight | 2 | M4x3.5mm | Countersunk 90°
 
 ##### Optional Screws
