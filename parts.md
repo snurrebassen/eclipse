@@ -17,7 +17,7 @@ For hotswap PCB, the PCB itself can be fastened with standard M2 (stabilizer scr
 #### Accessories
 | Part | Description | Notes |
 | ---- | --- | --- |
-| Bumpons | 4x 15x8mm 1,5mm thick
-| Gaskets | 12x 50x5mm 1,5mm thick, Shore 50A Silicone, adhesive
-| Gaskets top sheet | custom size, Shore 50A Silicone
+| Bumpons | 4x 15x8mm 1,5mm thick | Shore 50A Silicone, adhesive
+| Gaskets | 12x 50x5mm 1,5mm thick | Shore 50A Silicone, adhesive
+| Gaskets top sheet | custom size | Shore 50A Silicone
 
