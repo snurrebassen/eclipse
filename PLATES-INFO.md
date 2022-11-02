@@ -11,3 +11,5 @@ The Eclipse PCB can hold the following popular layouts:
 - Split spacebar (2.75u, 1.25u, 2.25u)
 
 The plates are available in each specific layout. 
+
+If you require a unique combination and it is not uploaded in the plate files, contact snurrebassen for help.
