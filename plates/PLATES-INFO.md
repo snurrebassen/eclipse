@@ -10,7 +10,8 @@ The Eclipse PCB can hold the following popular layouts:
 - Tsangan bottom row (WKL/Symmetrical bottom row)
 - Split spacebar (2.75u, 1.25u, 2.25u)
 
-Plate width: 358.567 mm
+Plate width: 358.567 mm <br />
+
 Plate height/depth: 110.317 mm
 
 The plates are available in each specific layout. 
