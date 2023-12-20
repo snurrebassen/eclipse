@@ -1,1 +1,5 @@
 These are files for any foam material you might want to modify your Eclipse with. Use as you please.
+
+The total width of the foam piece is 358.167 mm.
+The total height of the foam piece is 100.617 mm.
+The thickness of the foam piece should probably not be more than 2mm, as the total clearance between the bottom and the PCB is 3mm.
