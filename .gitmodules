@@ -1,0 +1,3 @@
+[submodule "pcb/eclipsepcb"]
+	path = pcb/eclipsepcb
+	url = https://github.com/arnstadm/eclipsepcb
