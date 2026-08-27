@@ -48,11 +48,14 @@ eclipse/
 
 ## PCB
 
-The Eclipse PCB was designed by [w3bb0](https://github.com/arnstadm/eclipsepcb) and supports:
-- Hotswap and solderable versions
-- Per-key RGB (SK6812mini)
-- Underglow
-- VIA and VIAL compatibility
+The Eclipse PCB has evolved through several versions:
+
+1. **Original PCB** — Designed by w3bb0, featured per-key RGB (SK6812mini) and underglow
+2. **Mechstudio PCB** — Mykeyboard made production changes to fit newer specs, budget and available parts (MCU, SMDs). This is the version included as `pcb/Mechstudio (MKEU)/` with pre-flashed VIAL hex
+3. **Martin PCB** — New cleaner PCB by [Martin](https://github.com/arnstadm/eclipsepcb) (not to be confused with w3bb0). Since the Mechstudio source files were no longer available, Martin designed a fresh PCB. **Does not feature underglow or per-key RGB**
+4. **Khor PCB** — Hotswap PCB stocked by [Khor](https://khor.store/)
+
+The PCB designs are available in the `pcb/eclipsepcb/` submodule.
 
 ### Firmware
 
@@ -104,7 +107,10 @@ See [LICENSE.md](./LICENSE.md) — Eclipse is open source for personal use and m
 ## Acknowledgments
 
 - **Designer**: snurrebassen
-- **PCB Design**: w3bb0
+- **Original PCB**: w3bb0
+- **Mechstudio PCB**: Mykeyboard.eu
+- **Martin PCB**: Martin (arnstadm)
+- **Khor PCB**: [Khor](https://khor.store/)
 - **Community**: GeekHack, r/MechGroupBuys
 
 ---
